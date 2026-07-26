@@ -1,0 +1,23 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*~
+*.bak
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# No specific Node.js or build artifacts are present in this project,
+# as it's a single HTML file with embedded data and scripts.
+# If a Node.js backend were to be implemented and run,
+# node_modules/ and npm-debug.log would be added.
